@@ -4,7 +4,8 @@ import org.flixel.FlxG;
 import org.flixel.FlxSound;
 import org.flixel.FlxText;
 /**
- * ...
+ * This is port of TypeText class by Noel Berry, who wrote it for his Ludum Dare 22 game - Abandoned
+ * http://www.ludumdare.com/compo/ludum-dare-22/?action=preview&uid=1527
  * @author Noel Berry
  */
 class TypeText extends FlxText
